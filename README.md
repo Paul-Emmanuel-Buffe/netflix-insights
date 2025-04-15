@@ -8,7 +8,7 @@
 
 ## L'Analyse Descriptive des Données
 
-## L'Intelligence Artificielle au Chevet de l'Archéologie et la Préservation du Patrimoine
+## L'Intelligence Artificielle au Chevet de l'Archéologie et de la Préservation du Patrimoine
 
 ## Conclusion
 
