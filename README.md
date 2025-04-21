@@ -120,3 +120,64 @@ Analysis based on Netflix's public catalog data containing:
 * 8,807 titles
 * 12 data points per title
 * Content spanning 1925-2021
+
+## Proposed Solutions
+
+### Recommendations
+
+#### 1. Series: The Strategic Challenge of Readjustment
+
+**Observation: Double Issue**
+
+1. **Catalog Imbalance:**
+   - Currently, our catalog consists of 70% movies versus 30% series. However, series are three times more profitable in terms of subscriber retention. This imbalance needs to be addressed to maximize user satisfaction and loyalty.
+
+2. **Premature Death of Series:**
+   - 75% of our series are canceled before reaching Season 3, leading to a waste of creative talent and significant frustration among our subscribers. It is crucial to allow series to develop their audience over the long term.
+
+**Our Solution: The "Double Rebalancing" (50/50)**
+
+- **Convert 3 movie franchises into series per year:**
+  - For example, transforming cinematic successes like *Extraction* into prequel series to capitalize on their popularity and expand their narrative universe.
+
+- **Launch 10 mini-series (6 episodes) per year:**
+  - These mini-series will replace underperforming movies, providing fresh and attractive content that can better retain subscriber attention.
+
+- **Guarantee 2 seasons for every new series:**
+  - Each new series will be guaranteed two seasons to allow it to build its audience. The third season will be conditional, based on performance and viewer engagement.
+
+#### 2. Eliminate "Zombie Content"
+
+**Alarming Observation**
+
+- **Viewing Imbalance:**
+  - Although 70% of our catalog consists of movies, they account for only 30% of the total viewing time. Additionally, thousands of works from before 2010 are never watched, representing an unnecessary cost.
+
+**Our Solution: Ruthlessness**
+
+- **Delist 20% of movies:**
+  - We will remove movies from the catalog that generate fewer than 100 views per month and have a high licensing cost relative to their profitability.
+
+- **Replace with:**
+  - Add 1,000 hours of short Asian series, a highly demanded content by our subscribers.
+  - Establish partnerships to include remastered cult films, thus adding value to our catalog.
+
+#### 3. Make Asia the New Production Hub
+
+**Opportunity**
+
+- **Asian Potential:**
+  - India, South Korea, and Japan account for 40% of the top content-producing countries but receive only 15% of Netflix's total budget. It is time to capitalize on this underutilized potential.
+
+**Our Solution: Triple Penetration of the Asian Market**
+
+- **India:**
+  - Invest in low-cost regional series that meet local expectations and can attract a wide audience.
+
+- **Korea:**
+  - Double our investments in psychological thrillers, a genre extremely popular internationally.
+
+- **Japan:**
+  - Dominate the adult animation market, a niche under-exploited by Disney and with strong growth potential.
+
+By implementing these recommendations, we can not only improve subscriber satisfaction but also optimize our resources for maximum impact.
