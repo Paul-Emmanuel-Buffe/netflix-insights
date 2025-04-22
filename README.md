@@ -181,3 +181,34 @@ Analysis based on Netflix's public catalog data containing:
   - Dominate the adult animation market, a niche under-exploited by Disney and with strong growth potential.
 
 By implementing these recommendations, we can not only improve subscriber satisfaction but also optimize our resources for maximum impact.
+
+## Methodology and Tools
+The analysis was conducted using:
+* **Jupyter Notebook** environment
+* **Pandas** for data manipulation
+* **Seaborn** and **Matplotlib** for visualizations
+* **Missingno** for missing data analysis
+
+## Additional Analysis Insights
+
+### Data Quality Assessment
+* **Missing Data Analysis**: Notable missing data in director (29.9%), cast (9.3%), country (9.4%), and date_added (0.11%) fields
+* **Data Transformations**: 
+  * Conversion of date_added to datetime format
+  * Separation of duration into duration_int (minutes) and duration_type (seasons)
+  * Transformation of listed_in into categorical lists for genre analysis
+
+### Content Distribution Insights
+* **Top Production Countries**: United States, India, United Kingdom, and Canada lead production, with France in eighth position
+* **Content Ratings**: Most content classified as TV-MA, TV-14, or R, indicating focus on adolescent and adult audiences
+* **Film Duration Distribution**: Most films run between 70-120 minutes, with peak around 90 minutes
+* **Series Seasons Distribution**: Majority of series (75%) have only one season, with significant drop-off after second season
+* **Popular Genres**: 
+  * Films: Dramas, International Movies, Comedies
+  * Series: International TV Shows, TV Dramas, TV Comedies
+* **Top Directors**: Rajiv Shilaka (19 works) and Raoul Campos (18 works) are the most prolific directors in the catalog
+
+### Temporal Patterns
+* **Monthly Additions**: Notable patterns in content addition throughout the year
+* **Yearly Growth**: Significant increase in content additions starting from 2017
+* **Peak Production Years**: 2017 for films and 2020 for TV series
